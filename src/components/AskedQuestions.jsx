@@ -1,6 +1,6 @@
 import React from "react";
 import Dialouge from "./Dialouge";
-import { askedQuestions } from "@/JSON/AskedQuestion";
+import { askedQuestions } from "@/JSON/Askedquestions";
 
 const AskedQuestions = () => {
   return (
